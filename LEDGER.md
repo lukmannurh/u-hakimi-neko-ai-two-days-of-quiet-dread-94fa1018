@@ -71,3 +71,11 @@
 - Built and locally verified 26 Nov 2026 ~09:57 WIB.
 - NOT submitted — parent handles commit/push/bundle/submit. No submission
   slots used by this build.
+
+## Submission
+
+- Submission: 01a215d8-97d4-7296-9ebf-cbaba4f9bcd9
+- Commit: 88282863f1c15e6b3b8ef4cfd1e6a53cbafbb550
+- Repo: https://github.com/lukmannurh/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018
+- Claim code: AF-JEZPS-8WMH0-PCQ3X-BH5AW
+- Submitted: 2026-11-26T03:14:23.967Z (parent pipeline)
